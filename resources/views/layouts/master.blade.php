@@ -35,13 +35,21 @@ License: You must have a valid license purchased only from themeforest(the above
     @stack('css_before')
     <!-- Main CSS -->
     @vite('resources/css/app.css')
-    
+
     <!-- Theme-specific CSS -->
     <link rel="stylesheet" href="{{ asset('build/assets/side-menu-2rTsA0si.css') }}">
     <link rel="stylesheet" href="{{ asset('build/assets/top-menu-DD1CJIdR.css') }}">
     <link rel="stylesheet" href="{{ asset('build/assets/vector-map-BKm4S9nR.css') }}">
     <link rel="stylesheet" href="{{ asset('build/assets/tiny-slider-1wbSbS80.css') }}">
     <link rel="stylesheet" href="{{ asset('build/assets/simplebar-CKCzzWRK.css') }}">
+    <link rel="stylesheet" href="{{ asset('build/assets/ckeditor-DnAqhxcp.css') }}">
+    <link rel="stylesheet" href="{{ asset('build/assets/dropzone-l2B6aAdZ.css') }}">
+    <link rel="stylesheet" href="{{ asset('build/assets/easepick-xF4hG8L6.css') }}">
+    <link rel="stylesheet" href="{{ asset('build/assets/full-calendar-DAXD2G0h.css') }}">
+    <link rel="stylesheet" href="{{ asset('build/assets/highlight-CGk0_04g.css') }}">
+    <link rel="stylesheet" href="{{ asset('build/assets/tabulator-BDfRQhdy.css') }}">
+    <link rel="stylesheet" href="{{ asset('build/assets/tom-select-BzyJM3EK.css') }}">
+    <link rel="stylesheet" href="{{ asset('build/assets/zoom-vanilla-Dt8wDzQr.css') }}">
    
     @stack('css_after')
     @stack('css')

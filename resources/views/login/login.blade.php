@@ -15,10 +15,10 @@
 
     <!-- CSS Assets -->
     @vite('resources/css/app.css')
-    <link rel="stylesheet" href="{{ asset('build/assets/app-AKZwyR7K.css') }}">
+    <link rel="stylesheet" href="{{ asset('build/assets/app-BwtZ4dtr.css') }}">
 
     <!-- JS Assets -->
-    <script src="{{ asset('build/assets/app-AKZwyR7K.js') }}" defer></script>
+    <script src="{{ asset('build/assets/app-CLuV0Q01.js') }}" defer></script>
 
     <!-- Notification Toast Component -->
     <x-menu.notification-toast />
