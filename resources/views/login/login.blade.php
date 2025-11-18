@@ -25,7 +25,6 @@ License: You must have a valid license purchased only from themeforest(the above
     <!-- BEGIN: CSS Assets-->
     <!-- END: CSS Assets-->
     @vite('resources/css/app.css')
-    <script src="/js/login.js" defer></script>
     
     <!-- Include notification toast component -->
     <x-menu.notification-toast />
