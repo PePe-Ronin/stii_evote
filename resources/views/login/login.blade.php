@@ -25,7 +25,8 @@ License: You must have a valid license purchased only from themeforest(the above
     <!-- BEGIN: CSS Assets-->
     <!-- END: CSS Assets-->
     @vite('resources/css/app.css')
-    
+    <link rel="stylesheet" href="{{ asset('build/assets/app-AKZwyR7K.css') }}">
+    <script src="{{ asset('build/assets/app-AKZwyR7K.js') }}" defer></script>
     <!-- Include notification toast component -->
     <x-menu.notification-toast />
 </head>
